@@ -2,6 +2,12 @@
 
 A small python library for calculating the length of an arc.
 
+## Install
+
+```bash
+pip install arc
+```
+
 ## How to use
 
 ```python
